@@ -1,6 +1,6 @@
-### AI-Math-Olympiad
+# AI-Math-Olympiad
 
-# Leveraging LLM to Solve Complex Mathematical Problems
+### Leveraging LLM to Solve Complex Mathematical Problems
 
 Adapted the DeepSeekMath language model for LaTeX input and fine-tuned the model to improve its performance on Olympiad-level math problems.
 
